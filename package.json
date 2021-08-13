@@ -1,5 +1,5 @@
 {
-  "name": "sessionlibrary",
+  "name": "express_session",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
